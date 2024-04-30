@@ -1,43 +1,73 @@
 [
   {
-    "name": "Twinkle A",
-    "loop": "1m",
+    "name": "TVSequence1",
+    "loop": "2m",
     "octave": 0,
     "sequence": [
       {
         "time": "0:0:0.0",
         "pitch": "C4",
-        "dur": "8n",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:0:2.0",
-        "pitch": "C4",
-        "dur": "8n",
+        "time": "0:0:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "G4",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:1:0.0",
-        "pitch": "G4",
-        "dur": "8n",
+        "pitch": "D4",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:1:2.0",
-        "pitch": "G4",
-        "dur": "8n",
+        "time": "0:1:0.0",
+        "pitch": "F4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "A4",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:2:0.0",
-        "pitch": "A4",
-        "dur": "8n",
+        "pitch": "C4",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:2:2.0",
-        "pitch": "A4",
-        "dur": "8n",
+        "time": "0:2:0.0",
+        "pitch": "Eb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "G4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "E4",
+        "dur": "4n",
         "vel": "1"
       },
       {
@@ -45,53 +75,76 @@
         "pitch": "G4",
         "dur": "4n",
         "vel": "1"
-      }
-    ]
-  },
-  {
-    "name": "Twinkle B",
-    "loop": "1m",
-    "octave": 0,
-    "sequence": [
+      },
       {
-        "time": "0:0:0.0",
-        "pitch": "F4",
-        "dur": "8n",
+        "time": "1:0:0.0",
+        "pitch": "C5",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:0:2.0",
-        "pitch": "F4",
-        "dur": "8n",
+        "time": "1:0:0.0",
+        "pitch": "E5",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:1:0.0",
-        "pitch": "E4",
-        "dur": "8n",
+        "time": "1:0:0.0",
+        "pitch": "G5",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:1:2.0",
-        "pitch": "E4",
-        "dur": "8n",
+        "time": "1:1:0.0",
+        "pitch": "D5",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:2:0.0",
-        "pitch": "D4",
-        "dur": "8n",
+        "time": "1:1:0.0",
+        "pitch": "F5",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:2:2.0",
-        "pitch": "D4",
-        "dur": "8n",
+        "time": "1:1:0.0",
+        "pitch": "A5",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:3:0.0",
-        "pitch": "C4",
+        "time": "1:2:0.0",
+        "pitch": "C5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "Eb5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "G5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "C5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "E5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "G5",
         "dur": "4n",
         "vel": "1"
       }
