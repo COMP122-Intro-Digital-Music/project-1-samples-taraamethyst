@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "70s Tape",
+    "file": "samples/70s-tape.wav",
+    "bpm": "120",
+    "loop": "4m"
+  },
+  {
+    "name": "Hip Hop Vocal",
+    "file": "samples/Hip-hop-vocal-sample.wav",
+    "bpm": "120",
+    "loop": "3m"
+  },
+  {
+    "name": "Payphone",
+    "file": "samples/Payphone.wav",
+    "bpm": "120",
+    "loop": "5m"
+  }
+]
